@@ -1,4 +1,4 @@
-# 👨‍💻 @ganeshak11/devcard
+# Devcard
 
 A sleek, interactive, and fully-featured personal business card built for the terminal. 
 
@@ -9,17 +9,17 @@ This CLI tool serves as a digital identity card, showcasing my bio, technical sk
 You can run the DevCard instantly without installing anything using `npx`:
 
 ```bash
-npx ganeshak11
+npx itishacodes
 ```
 
-## ✨ Features
+## Features
 
 - **Beautiful UI**: Built using `boxen` and `chalk` for a clean, colorful, and responsive terminal layout.
 - **Interactive Command Palette**: Navigate through different sections using your arrow keys via `inquirer`.
 - **Scannable QR Code**: Scan the terminal with your phone to instantly visit my portfolio site using `qrcode-terminal`.
 - **Easter Egg Animation**: Trigger the "Summon the Duck" option for a fun terminal buffer animation!
 
-## 🛠️ Built With
+## Built With
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/) - For the interactive prompt
@@ -27,7 +27,7 @@ npx ganeshak11
 - [Chalk](https://github.com/chalk/chalk) - For terminal string styling
 - [QRCode-Terminal](https://github.com/gtanner/qrcode-terminal) - For rendering the QR code
 
-## 📦 Local Development
+## Local Development
 
 If you want to clone this repo and run it locally:
 
@@ -44,6 +44,3 @@ If you want to clone this repo and run it locally:
    ```bash
    npm start
    ```
-
----
-*Built as part of the Fortis-Tools DevOps toolkit.*
