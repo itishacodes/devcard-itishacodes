@@ -17,7 +17,6 @@ npx itishacodes
 - **Beautiful UI**: Built using `boxen` and `chalk` for a clean, colorful, and responsive terminal layout.
 - **Interactive Command Palette**: Navigate through different sections using your arrow keys via `inquirer`.
 - **Scannable QR Code**: Scan the terminal with your phone to instantly visit my portfolio site using `qrcode-terminal`.
-- **Easter Egg Animation**: Trigger the "Summon the Duck" option for a fun terminal buffer animation!
 
 ## Built With
 
